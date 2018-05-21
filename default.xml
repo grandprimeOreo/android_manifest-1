@@ -626,4 +626,5 @@
 
   <!-- Add all tracked Nitrogen repos -->
   <include name="nos.xml" />
+  <include name="gp.xml" />
 </manifest>
